@@ -3,7 +3,7 @@ Application
 ----------------------
 Name: BrainEReader
 Author: WANG, Xi
-website: www.xiwang.info/#!brainereader/vycsi
+website: http://gxtogether.wixsite.com/portfolio/brainereader
 
 ----------------------
 Environmentment
