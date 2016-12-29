@@ -1,0 +1,68 @@
+﻿<Window x:Class="EEGPdfViewer.Views.ChildWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="BrainEReader.ico"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="Settings" Height="200" Width="400" WindowStartupLocation="CenterOwner" Topmost="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <RadioButton Grid.Column="0" Margin="38,10,0,0" Content="Reading Mode" x:Name="readMode" IsChecked="True" Checked="CheckModeChanged" Unchecked="CheckModeChanged"></RadioButton>
+                <RadioButton Grid.Column="1" Margin="38,10,0,0" Content="Experiment Mode" x:Name="expMode"></RadioButton>              
+            </Grid>
+
+            <GroupBox Header="Reading Mode" Grid.Row="1" Grid.RowSpan="2" Margin="30,0,30,0" x:Name="readModeSetting" Visibility="{Binding Path=ModeIsRead, Converter={StaticResource BoolToVis}}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <CheckBox Grid.Row="0" Margin="0,10,0,0" IsChecked="True" x:Name="checkPopup" Checked="CheckPopupChanged" Unchecked="CheckPopupChanged" Content="Pop up a confirmation window before turning pages"/>
+                    <CheckBox Grid.Row="1"  Margin="0,10,0,0" IsChecked="True" x:Name="checkAudio" Checked="CheckAudioChanged" Unchecked="CheckAudioChanged" Content="Turn on audio notification"/>
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Experiment Mode" Grid.Row="1" Grid.RowSpan="2" Margin="30,0,30,0" x:Name="expModeSetting" Visibility="{Binding Path=ModeIsExp, Converter={StaticResource BoolToVis}}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Row="0" Content="Task: "   HorizontalAlignment="Left" VerticalAlignment="Center" />
+                    <TextBox x:Name="Task" Grid.Row="0" Margin="50,5,5,5" FontSize="15" Text="eye_states" TextChanged="Task_TextChanged"></TextBox>
+                    <Label Grid.Row="1"  Content="Class: "  Width="50" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <TextBox x:Name="Class" Grid.Row="1" Margin="50,5,5,5" FontSize="15" Text="1" TextChanged="Class_TextChanged"/>
+                </Grid>
+            </GroupBox>
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="1" Content="OK" Width="70" Height="30" Margin="0,5,0,5" x:Name="OK_Button" Click="OK_Button_Click" ></Button>
+            <Button Grid.Column="2" Content="Cancel" Width="70" Height="30" Margin="0,5,0,5" x:Name="Cancel_Button" Click="Cancel_Button_Click"></Button>
+        </Grid>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,62 @@
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\sample.pdf
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer.Properties.Resources.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer.csproj.GenerateResource.Cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\ThinkGear.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\NLog.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\PdfViewer\bin\Debug\NLog.xml
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\sample.pdf
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\ThinkGear.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\NLog.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\NLog.xml
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.Properties.Resources.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\sample.pdf
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\NLog.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\NLog.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.Properties.Resources.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.csproj.GenerateResource.Cache

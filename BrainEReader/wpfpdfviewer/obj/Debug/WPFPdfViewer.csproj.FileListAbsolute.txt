@@ -1,0 +1,130 @@
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.ResolveComReference.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\PdfViewer.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.lref
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\PdfViewer.baml
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.g.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.Properties.Resources.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.WinFormPdfHost.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.GenerateResource.Cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\obj\Debug\WPFPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer-19901\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll.config
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll.config
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.ResolveComReference.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\PdfViewer.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.cache
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.lref
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\PdfViewer.baml
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.g.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.Properties.Resources.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.WinFormPdfHost.resources
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.GenerateResource.Cache
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll.config
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.ResolveComReference.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\PdfViewer.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.lref
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\PdfViewer.baml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.g.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.Properties.Resources.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.WinFormPdfHost.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\obj\Debug\WPFPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\itextsharp.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\WPFPdfViewer\bin\Debug\itextsharp.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csprojResolveAssemblyReference.cache
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.ResolveComReference.cache
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\PdfViewer.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.cache
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.lref
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.pdb
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll.config
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\itextsharp.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\itextsharp.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\Interop.AcrobatAccessLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\PdfViewer.baml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.g.resources
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.Properties.Resources.resources
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.WinFormPdfHost.resources
+C:\FYP\SissiWang\BrainEReader\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll.config
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\itextsharp.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\itextsharp.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\Interop.AcrobatAccessLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.ResolveComReference.cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\PdfViewer.g.cs
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.lref
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\PdfViewer.baml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.g.resources
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.Properties.Resources.resources
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.WinFormPdfHost.resources
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll.config
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\itextsharp.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\itextsharp.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\Interop.AcrobatAccessLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.ResolveComReference.cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\PdfViewer.g.cs
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer_MarkupCompile.lref
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\PdfViewer.baml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.g.resources
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.Properties.Resources.resources
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.WinFormPdfHost.resources
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.csproj.GenerateResource.Cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\WPFPdfViewer\obj\Debug\WPFPdfViewer.pdb

@@ -1,0 +1,124 @@
+﻿<Window x:Class="EEGPdfViewer.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Icon="BrainEReader.ico" 
+        xmlns:WPFPdfViewer="clr-namespace:WPFPdfViewer;assembly=WPFPdfViewer" Title="BrainEReader" WindowState="Maximized"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Loaded="WindowLoaded"
+        MouseWheel="Window_MouseWheel"
+        MouseEnter="MainWindow_MouseEnter"
+        Background="White"
+        >
+    
+    <!--The BrainEReader Icon is made by SimpleIcon from www.flaticon.com, which is licensed by CC 3.0 BY-->
+    <!-- WindowState="Maximized" -->
+    <DockPanel x:Name="MainPanel" >
+
+        <Popup x:Name="PopupInfo"  PlacementTarget="{Binding ElementName=MainPanel}" Placement="Center" IsOpen="{Binding Path=InfoIsOpen}">
+            <Border  BorderThickness="1" Background="White">
+                <StackPanel Orientation="Horizontal" Width="300" Height="150">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Information" Grid.Row="0" Grid.Column="0" Background="Black" Foreground="White" FontSize="30"/>
+                        <TextBlock TextWrapping="Wrap" Text="Please check whether sensor and reference electrodes 1) are being on your head and 2) well contact your skin!" Width="300" Grid.Row="1" Grid.Column="0" FontSize="20"/>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Popup>
+        <Popup x:Name="Popup" PlacementTarget="{Binding ElementName=MainPanel}" Placement="Center" IsOpen="{Binding Path=ConfirmIsOpen}">
+            <Border  BorderThickness="1" Background="White">
+                <StackPanel Orientation="Horizontal" Width="300" Height="150">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding Path=ConfirmTitle}" Grid.Row="0" Grid.Column="0" Background="Black" Foreground="White" Width="300" FontSize="30"/>
+                        <TextBlock x:Name ="Confirm" Grid.Row="1" Grid.Column="0" FontSize="20" Text="{Binding Path=ConfirmText}"/>
+                        <TextBlock x:Name ="Timer" Grid.Row="2" Grid.Column="0"  FontSize="50" Text="{Binding Path=TimerText}"/>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Popup>
+<!--
+        <Popup x:Name="CommandPanel" PlacementTarget="{Binding ElementName=MainPanel}" Placement="Center" >
+            <Border  BorderThickness="1" Background="White">
+                <StackPanel Orientation="Horizontal" Width="auto" Height="600">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="Red_Button" Width="150" Height="150" Grid.Row="0" Grid.ColumnSpan ="4" Background="Red" HorizontalAlignment="Center"/>
+                       
+                        <Button x:Name="BCI_Next_Button" Margin="20,20,20,20" Width="150" Grid.Row="1" Grid.Column="0" Content="Next" FontSize="20"/>
+                        <Button x:Name="BCI_Prev_Button" Margin="20,20,20,20" Width="150" Grid.Row="1" Grid.Column="1" Content="Previous" FontSize="20"/>
+                        <Button x:Name="BCI_ZoomIn_Button" Margin="20,20,20,20" Width="150" Grid.Row="1" Grid.Column="2" Content="Zoom In" FontSize="20"/>
+                        <Button x:Name="BCI_ZoomOut_Button" Margin="20,20,20,20" Width="150" Grid.Row="1" Grid.Column="3" Content="Zoom Out" FontSize="20"/>
+
+                        <Button x:Name="Blue_Button"  Width="150" Height="150" Grid.Row="2" Grid.ColumnSpan="4" Background="Blue"/>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Popup>
+    -->
+        <StackPanel DockPanel.Dock="Top" Margin="0,10,0,10" Orientation="Horizontal" Height="40" HorizontalAlignment="Center">
+            <Button x:Name="Start_Button" Margin="5,0,5,0" Width="80" Click="Start_Click" Content="Start" Background="LightGray" FontSize="15" Visibility="{Binding Path=ModeIsUnchecked, Converter={StaticResource BoolToVis}}"/>
+            <Button x:Name="Stop_Button" Margin="5,0,5,0" Width="80" Click="Stop_Click" Content="Stop" Background="LightGray" FontSize="15" Visibility="{Binding Path=ModeIsUnchecked, Converter={StaticResource BoolToVis}}"/>
+            <Button Margin="5,0,5,0" Width="75" Click="Open_Click" Content="Open" Background="LightGray" FontSize="15" />    
+         <!--   <TextBlock x:Name="Red_Button" Margin="5,0,5,0" Width="50" Background="red"/> -->
+            <Button x:Name="Prev_Button" Margin="5,0,5,0" Width="80" Click="Prev_Click" Content="Previous" Background="LightGray" FontSize="15"/>
+         <!--   <Button x:Name="Read_Button" Margin="5,0,5,0" Width="75" Click="Read_Click" Content="Read"/> -->
+            <Button x:Name="Next_Button" Margin="5,0,5,0" Width="80" Click="Next_Click" Content="Next" Background="LightGray" FontSize="15"/>
+            <Button x:Name="Settings_Button" Margin="5,0,5,0" Width="80" Content="Settings"  Command="{Binding OpenCommand}" Background="LightGray" FontSize="15"/>
+         <!--   <TextBlock x:Name="Blue_Button" Margin="5,0,5,0" Width="50" Background="blue"/> -->
+            
+            <Label Content="Headset Status:" Margin="20,0,0,0" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" FontSize="15"/>
+            <Label x:Name="Status" Content="{Binding Path=HeadsetStatus}" Width="110" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" FontSize="15"/>
+
+            <Label Content="Signal:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" FontSize="15"/>
+            <Label x:Name="Signal" Content="{Binding Path=Signal}" Grid.Row="2" Width="90" Grid.Column="1"  VerticalAlignment="Center" FontSize="15"/>
+
+
+        </StackPanel>
+<!--
+        <DockPanel Width="625" DockPanel.Dock="Left" Background="White">
+            <StackPanel Width="300" Height="200" Background="Red" x:Name="Left" HorizontalAlignment="Left" />
+        </DockPanel>
+
+       <DockPanel Width="625" DockPanel.Dock="Right" Background="White">
+            <DockPanel Width="300" Height="200" Background="Blue" x:Name="Right" HorizontalAlignment="Right">
+                
+            </DockPanel>
+        </DockPanel>
+        -->
+<!--Margin="0,0,0,820" Margin="0,820,0,0"-->
+        <StackPanel DockPanel.Dock="Bottom" x:Name="showPage" Margin="0,10,0,10" Orientation="Horizontal" HorizontalAlignment="Center" >
+
+            <TextBox x:Name="showCurrentPage" Width="50" Height="30" Margin="0" FontSize="20" TextAlignment="Center" Text="{Binding Path=currentPage}" TextChanged="showCurrentPage_TextChanged"></TextBox>
+            <TextBlock Height="30" Margin="0" FontSize="20" Text=" of "></TextBlock>
+            <TextBlock x:Name="showTotalPage"  Height="30" Margin="0" FontSize="20" Text="{Binding Path=totalPage}"></TextBlock>
+
+        </StackPanel>
+        <WPFPdfViewer:PdfViewer x:Name="pdfViewer" Width="450" >
+            <!-- 460 -->
+        </WPFPdfViewer:PdfViewer>
+
+    </DockPanel>
+</Window>

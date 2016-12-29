@@ -1,0 +1,318 @@
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\EEGPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\EEGPdfViewer.Properties.Resources.resources
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\EEGPdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\sample.pdf
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\NLog.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\NLog.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.Properties.Resources.resources
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\ThinkGear.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\NLog.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\NLog.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.dll.config
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\PdfViewer_Content.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\PdfViewer.exe.config
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.IO.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.MachineLearning.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.Math.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.Statistics.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.IO.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.MachineLearning.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.Math.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.Statistics.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\MathNet.Numerics.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\MathNet.Numerics.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.Controls.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\ZedGraph.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\Accord.Controls.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\ZedGraph.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WindowsInput.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\WindowsInput.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\itextsharp.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\itextsharp.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\System.Threading.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\System.Threading.xml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\bin\Debug\AlgLibSL.dll
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\Views\childWindow.baml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\Views\childWindow.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\WANG XI\Desktop\wpfpdfviewer\PdfViewer\obj\x86\Debug\App.baml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe.config
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.dll.config
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.IO.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.Math.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\AlgLibSL.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\System.Threading.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\ThinkGear.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\WindowsInput.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\ZedGraph.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\itextsharp.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.IO.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.Math.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\System.Threading.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\WindowsInput.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\ZedGraph.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\itextsharp.xml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.baml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\App.baml
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.g.cs
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\WANG XI\Desktop\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_Content.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe.config
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.dll.config
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.IO.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.Math.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\AlgLibSL.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\System.Threading.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\WindowsInput.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\ZedGraph.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\itextsharp.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\NLog.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.IO.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.Math.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\System.Threading.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\WindowsInput.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\ZedGraph.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\itextsharp.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\NLog.xml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\de\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\es\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\fr\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\hu\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\it\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\ja\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\pt\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\ru\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\sk\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\sv\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\tr\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csprojResolveAssemblyReference.cache
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.baml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.baml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\App.baml
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\App.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_Content.g.cs
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.Properties.Resources.resources
+C:\FYP\SissiWang\BrainEReader\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csproj.GenerateResource.Cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe.config
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.dll.config
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.IO.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Math.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\AlgLibSL.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\System.Threading.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\WindowsInput.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\ZedGraph.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\itextsharp.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\NLog.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.IO.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Math.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\System.Threading.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\WindowsInput.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\ZedGraph.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\itextsharp.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\NLog.xml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.baml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\App.baml
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.g.cs
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_Content.g.cs
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.Properties.Resources.resources
+C:\Users\WANG XI\Desktop\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csproj.GenerateResource.Cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.dll.config
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe.config
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\PdfViewer.exe
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\PdfViewer.pdb
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.IO.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Math.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\AlgLibSL.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\System.Threading.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\WindowsInput.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\ZedGraph.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\itextsharp.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Jayrock.Json.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\NLog.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\WPFPdfViewer.pdb
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Controls.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.IO.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.MachineLearning.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Math.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Accord.Statistics.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\MathNet.Numerics.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\System.Threading.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\WindowsInput.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\ZedGraph.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\itextsharp.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\NLog.xml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csprojResolveAssemblyReference.cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.baml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\App.baml
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\ChildWindow.g.cs
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\App.g.cs
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_Content.g.cs
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer_MarkupCompile.cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.g.resources
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.Properties.Resources.resources
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\EEGPdfViewer.csproj.GenerateResource.Cache
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.exe
+C:\Users\eeriee\Desktop\SissiWang\SissiWang\BrainEReader\PdfViewer\obj\x86\Debug\PdfViewer.pdb
